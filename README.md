@@ -1,1 +1,1 @@
-https://github.com/wolfx-alpha/.io.git
+# wolfx-alpha.io
